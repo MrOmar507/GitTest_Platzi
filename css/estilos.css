@@ -4,3 +4,11 @@ body
 	text-align:left;
 	font-family: 'Courier New', Courier, monospace;
 }
+
+#cabecera #tagline
+{
+	font-weight: normal;
+	font-size: 0.8cm;
+
+
+}
